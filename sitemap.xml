@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Trang chủ -->
+  <url>
+    <loc>https://www.wfourtech.vn/</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.wfourtech.vn/img/wfourtech.vn-baner.webp</image:loc>
+      <image:title>Digital Technology Background for WFOUR TECH</image:title>
+    </image:image>
+  </url>
+  <!-- Về chúng tôi -->
+  <url>
+    <loc>https://www.wfourtech.vn/#about</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.wfourtech.vn/img/wfourtech.vn-about.webp</image:loc>
+      <image:title>WFOUR TECH Team Designing Professional Websites</image:title>
+    </image:image>
+  </url>
+  <!-- Dịch vụ -->
+  <url>
+    <loc>https://www.wfourtech.vn/#services</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Dự án -->
+  <url>
+    <loc>https://www.wfourtech.vn/#projects</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Mẫu website -->
+  <url>
+    <loc>https://www.wfourtech.vn/#templates</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Đánh giá khách hàng -->
+  <url>
+    <loc>https://www.wfourtech.vn/#testimonials</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.wfourtech.vn/img/tran-anh-tu.jpg</image:loc>
+      <image:title>Trần Anh Tú - Testimonial</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.wfourtech.vn/img/nguyen-thi-thuy-tram.jpg</image:loc>
+      <image:title>Nguyễn Thị Thùy Trâm - Testimonial</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.wfourtech.vn/img/pham-nguyen-nhat-anh.png</image:loc>
+      <image:title>Phạm Nguyễn Nhật Anh - Testimonial</image:title>
+    </image:image>
+  </url>
+  <!-- Liên hệ -->
+  <url>
+    <loc>https://www.wfourtech.vn/#contact</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

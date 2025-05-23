@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /wp-admin/
+Allow: /
+Allow: /img/
+Allow: /css/
+Allow: /js/
+Sitemap: https://www.wfourtech.vn/sitemap.xml
